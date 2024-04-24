@@ -23,6 +23,7 @@ python manage.py runserver
 
 
 
+
 After starting the server, you can access the application endpoints:
 
 - **JSON Response**: Access at `http://127.0.0.1:8000/hello/` to receive a JSON response containing `{"Message": "Hello World!"}`.
